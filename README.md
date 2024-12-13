@@ -6,3 +6,9 @@
 </div>
 
 ---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="aws" width="40" height="40"/> </a></p>
+<p align='center'><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AJay6600&show_icons=true&locale=en&layout=compact" alt="dhananjaykuber" /></p>
+
+
